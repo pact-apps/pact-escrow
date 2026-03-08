@@ -6,7 +6,10 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-pact_escrow = "6JTfaG74DZydUwHdQAo6P6frYAVhSitwTexomvTphbCs"
+pact_escrow = "CvTggHr71Qm6NC5qjkvCq4txe2UbbZWrKAWGpMVMWw6y"
+
+[programs.devnet]
+pact_escrow = "CvTggHr71Qm6NC5qjkvCq4txe2UbbZWrKAWGpMVMWw6y"
 
 [registry]
 url = "https://api.apr.dev"
