@@ -6,3 +6,11 @@ node_modules
 test-ledger
 .yarn
 .deploy
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*-keypair.json
+solana-devnet.yml
